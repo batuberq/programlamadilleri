@@ -1,0 +1,10 @@
+C:\Users\HAMZA\source\repos\nesnesınavs\nesnesınavs\bin\Debug\nesnesınavs.exe.config
+C:\Users\HAMZA\source\repos\nesnesınavs\nesnesınavs\bin\Debug\nesnesınavs.exe
+C:\Users\HAMZA\source\repos\nesnesınavs\nesnesınavs\bin\Debug\nesnesınavs.pdb
+C:\Users\HAMZA\source\repos\nesnesınavs\nesnesınavs\obj\Debug\nesnesınavs.csprojAssemblyReference.cache
+C:\Users\HAMZA\source\repos\nesnesınavs\nesnesınavs\obj\Debug\nesnesınavs.Form1.resources
+C:\Users\HAMZA\source\repos\nesnesınavs\nesnesınavs\obj\Debug\nesnesınavs.Properties.Resources.resources
+C:\Users\HAMZA\source\repos\nesnesınavs\nesnesınavs\obj\Debug\nesnesınavs.csproj.GenerateResource.cache
+C:\Users\HAMZA\source\repos\nesnesınavs\nesnesınavs\obj\Debug\nesnesınavs.csproj.CoreCompileInputs.cache
+C:\Users\HAMZA\source\repos\nesnesınavs\nesnesınavs\obj\Debug\nesnesınavs.exe
+C:\Users\HAMZA\source\repos\nesnesınavs\nesnesınavs\obj\Debug\nesnesınavs.pdb
